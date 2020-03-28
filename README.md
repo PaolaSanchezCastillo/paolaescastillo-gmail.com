@@ -1,2 +1,3 @@
-# paolaescastillo-gmail.com
+Proyecto Sistemas Distribuidos
+
 Angular-ApiPHP-MySQLDatabase
